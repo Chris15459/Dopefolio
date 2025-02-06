@@ -1,5 +1,6 @@
+<system stabil 120fps>
 # Dopefolio 🔥
-
+(start )
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
 ## [Demo Link](https://dopefolio.netlify.app) 🔗
